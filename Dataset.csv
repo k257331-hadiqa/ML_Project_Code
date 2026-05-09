@@ -1,0 +1,501 @@
+Industry,Company_Size,Job_Level,Tenure_Years,Training_Received,DTI,POS,SD,ID_Threat,IDCL,L1_Dis,L2_Dis,Job_Perf,Org_Com,Resistance,Resistance_Label
+Food Processing,Large,Floor Worker,9.7,1,4.51,4.41,3.66,5.0,4.03,3.36,3.76,4.48,4.48,3.66,2
+Pharmaceuticals,Large,Supervisor,2.4,0,3.69,3.61,2.86,2.96,3.09,2.9,3.89,3.99,3.79,4.03,2
+Engineering Goods,Large,Floor Worker,9.9,0,4.19,2.07,2.89,3.94,3.88,3.44,3.82,3.25,2.93,3.9,2
+Food Processing,Medium,Floor Worker,1.5,1,2.83,3.03,3.02,2.47,2.11,2.02,2.46,3.65,4.43,2.27,0
+Textiles,Medium,Supervisor,1.3,1,2.58,3.9,2.86,3.85,3.13,3.44,2.95,2.9,1.98,3.03,1
+Engineering Goods,Large,Floor Worker,5.4,0,3.14,3.37,4.08,3.65,2.95,1.98,2.92,2.87,3.27,2.54,0
+Food Processing,Medium,Manager,4.9,0,2.94,1.9,2.57,2.58,2.78,2.79,3.55,2.02,4.09,3.76,2
+Food Processing,Large,Floor Worker,4.3,0,3.4,3.41,3.44,3.58,2.3,2.87,2.5,2.53,1.77,2.59,0
+Textiles,Medium,Supervisor,3.6,1,2.09,1.89,2.58,2.63,2.28,3.15,2.26,2.91,3.31,2.61,0
+Pharmaceuticals,Small,Supervisor,7.0,0,2.98,2.21,2.84,2.7,2.82,3.41,2.54,1.49,3.17,2.72,1
+Pharmaceuticals,Small,Supervisor,5.5,1,2.66,3.55,3.21,3.28,2.68,3.61,2.45,2.38,4.07,2.64,0
+Engineering Goods,Large,Supervisor,8.7,0,5.0,3.04,4.8,4.5,3.92,3.82,2.83,2.46,1.52,3.21,1
+Food Processing,Small,Supervisor,9.2,0,2.48,2.03,2.84,2.84,2.99,3.53,2.56,2.63,3.86,2.8,1
+Engineering Goods,Medium,Manager,6.4,0,4.2,3.27,3.65,3.74,3.54,3.52,4.18,2.35,2.37,4.21,2
+Pharmaceuticals,Medium,Floor Worker,3.0,1,3.26,3.82,2.97,3.45,2.41,1.86,2.46,3.35,3.21,2.1,0
+Textiles,Small,Floor Worker,3.0,1,2.45,3.66,1.83,2.83,3.65,3.28,3.81,3.97,2.02,3.3,1
+Pharmaceuticals,Medium,Supervisor,3.8,1,2.53,3.76,2.21,2.77,2.45,1.5,1.23,4.16,2.94,1.0,0
+Textiles,Large,Manager,6.4,1,2.64,4.2,2.4,2.42,3.64,2.37,3.73,2.96,3.56,3.41,2
+Engineering Goods,Small,Floor Worker,8.3,0,3.0,2.8,2.35,4.05,4.26,3.32,3.75,2.82,2.08,3.8,2
+Food Processing,Large,Supervisor,3.1,1,4.22,3.69,4.08,3.15,2.89,3.42,2.64,2.79,3.31,2.98,1
+Food Processing,Large,Manager,12.1,0,3.34,3.09,3.92,3.49,2.79,3.23,2.93,2.42,2.43,3.0,1
+Pharmaceuticals,Medium,Supervisor,4.2,0,4.29,2.57,3.34,3.63,2.69,3.94,2.49,2.08,1.72,2.89,1
+Engineering Goods,Small,Manager,1.0,1,3.28,2.09,3.36,4.26,2.83,2.96,1.69,3.67,2.65,1.77,0
+Engineering Goods,Medium,Supervisor,17.4,0,4.25,2.12,3.24,3.25,3.3,3.43,3.7,2.54,3.03,3.63,2
+Food Processing,Small,Supervisor,5.3,1,2.5,2.67,2.49,2.28,2.3,2.33,2.63,2.64,3.11,2.69,1
+Textiles,Medium,Floor Worker,9.3,1,4.16,3.37,3.38,3.16,4.0,2.69,3.49,3.14,3.16,2.84,1
+Pharmaceuticals,Large,Manager,1.0,1,3.4,4.43,3.62,3.47,2.77,3.16,2.28,3.01,3.4,2.26,0
+Textiles,Large,Floor Worker,2.7,1,2.43,3.5,2.22,1.85,3.07,2.73,2.21,1.9,3.87,2.33,0
+Textiles,Large,Supervisor,3.9,1,2.14,4.15,3.01,2.21,2.47,2.16,2.74,3.39,3.17,2.73,1
+Food Processing,Medium,Supervisor,1.5,0,4.38,3.39,3.79,2.58,3.56,3.51,4.26,3.32,2.04,4.07,2
+Food Processing,Medium,Supervisor,4.1,0,3.4,2.57,2.89,3.42,3.23,3.24,3.25,3.18,2.94,3.31,1
+Engineering Goods,Large,Supervisor,3.5,0,3.3,3.4,2.47,2.91,2.73,2.09,2.02,4.86,3.74,1.65,0
+Textiles,Medium,Supervisor,11.2,1,3.42,3.07,3.43,2.39,3.72,2.81,3.6,3.9,2.07,3.58,2
+Pharmaceuticals,Medium,Manager,1.0,1,3.83,4.04,4.08,4.2,1.44,3.31,1.87,3.78,2.24,2.14,0
+Pharmaceuticals,Small,Supervisor,7.5,0,4.34,2.74,4.06,3.06,2.73,3.16,3.27,4.71,2.42,3.42,2
+Textiles,Small,Supervisor,9.8,1,1.27,2.1,3.15,2.45,2.27,3.42,2.81,3.29,2.66,2.94,1
+Textiles,Medium,Floor Worker,17.5,1,2.43,3.32,3.45,2.26,3.84,2.98,1.9,3.13,2.48,2.14,0
+Pharmaceuticals,Small,Supervisor,8.5,1,2.76,3.87,2.66,3.85,1.96,1.91,2.56,4.16,3.99,1.81,0
+Textiles,Small,Supervisor,2.2,1,1.0,2.73,1.47,2.25,1.75,1.25,1.56,3.51,2.7,1.0,0
+Food Processing,Large,Floor Worker,4.1,1,3.88,3.81,3.87,2.96,2.48,3.32,1.83,2.93,1.76,1.95,0
+Pharmaceuticals,Large,Floor Worker,6.0,1,3.54,3.87,2.87,2.8,2.83,2.11,2.76,3.03,3.17,2.32,0
+Engineering Goods,Medium,Supervisor,12.4,1,3.67,2.57,4.13,3.81,4.12,4.04,3.97,2.76,2.39,3.89,2
+Food Processing,Large,Supervisor,1.0,0,4.73,3.35,4.37,3.93,3.63,4.19,2.5,2.03,1.44,3.27,1
+Textiles,Large,Supervisor,7.5,1,2.7,2.66,2.95,2.74,3.34,2.28,3.6,2.93,2.91,2.79,1
+Engineering Goods,Small,Floor Worker,1.1,0,2.59,1.96,3.13,3.54,1.76,2.77,2.55,3.39,2.83,2.59,0
+Engineering Goods,Medium,Floor Worker,3.1,1,3.27,3.89,4.18,2.74,2.76,4.07,2.84,2.41,2.23,3.14,1
+Pharmaceuticals,Medium,Floor Worker,1.3,0,4.03,2.94,3.79,3.72,2.53,3.77,2.17,1.43,2.74,2.62,0
+Textiles,Small,Manager,2.7,0,1.91,2.16,2.2,2.93,2.37,2.67,2.0,2.26,2.69,2.2,0
+Food Processing,Large,Manager,8.8,0,2.78,3.31,3.73,3.38,2.83,2.79,3.42,2.39,4.11,3.45,2
+Textiles,Medium,Floor Worker,3.6,0,3.29,2.68,3.76,3.11,4.18,3.17,2.95,2.37,3.25,3.19,1
+Textiles,Medium,Supervisor,2.5,0,2.85,2.73,2.71,2.76,3.53,2.21,3.93,3.66,2.81,3.74,2
+Textiles,Small,Floor Worker,2.2,0,1.0,2.75,1.63,1.0,1.48,2.26,1.84,3.51,3.4,1.44,0
+Food Processing,Small,Floor Worker,1.7,1,1.74,2.39,2.27,1.62,2.1,2.01,2.31,4.17,3.54,1.94,0
+Food Processing,Large,Floor Worker,8.4,0,4.17,3.06,3.99,3.94,3.89,4.31,2.65,2.86,3.23,3.07,1
+Food Processing,Small,Floor Worker,5.1,1,2.8,2.65,2.08,2.82,2.14,2.42,2.31,3.97,2.85,2.36,0
+Food Processing,Small,Supervisor,6.4,1,2.04,1.86,1.46,2.49,2.66,1.96,3.08,3.9,4.01,2.61,0
+Pharmaceuticals,Medium,Manager,1.2,1,3.28,2.64,2.67,3.82,2.22,2.98,1.7,3.16,3.03,1.71,0
+Pharmaceuticals,Medium,Floor Worker,5.1,0,3.4,3.7,2.7,2.55,1.87,1.0,2.48,4.67,4.95,2.01,0
+Textiles,Medium,Supervisor,1.0,0,3.08,2.96,2.68,2.94,3.39,2.77,3.29,3.71,3.99,3.24,1
+Textiles,Medium,Supervisor,11.2,1,1.72,2.39,2.51,2.36,3.11,2.68,2.7,3.41,3.28,2.81,1
+Food Processing,Small,Manager,7.4,0,1.99,1.39,2.23,1.98,2.13,3.35,2.85,3.65,2.65,3.13,1
+Pharmaceuticals,Small,Supervisor,4.6,0,3.24,2.27,3.28,4.04,2.47,2.61,1.39,1.72,3.53,1.73,0
+Pharmaceuticals,Large,Floor Worker,1.0,1,3.65,4.5,2.72,3.97,2.12,3.32,2.57,2.68,2.72,2.82,1
+Food Processing,Medium,Supervisor,2.1,1,3.24,3.1,2.89,3.35,2.95,3.48,3.84,2.59,3.93,3.86,2
+Food Processing,Medium,Floor Worker,1.3,0,2.06,3.53,2.72,3.54,1.89,3.56,3.01,3.48,2.79,3.15,1
+Pharmaceuticals,Medium,Manager,4.4,1,3.62,3.44,3.76,2.5,2.78,2.99,3.04,4.02,2.72,3.24,1
+Pharmaceuticals,Large,Floor Worker,6.6,1,4.42,3.82,3.53,3.9,3.48,3.79,3.14,1.72,2.31,3.63,2
+Textiles,Small,Supervisor,6.3,1,2.6,2.01,2.82,3.0,2.6,2.41,2.35,4.19,2.43,2.02,0
+Textiles,Medium,Floor Worker,13.9,0,2.7,3.3,4.08,2.29,3.26,3.53,2.99,2.02,3.13,3.56,2
+Pharmaceuticals,Medium,Supervisor,4.8,0,3.32,2.51,3.21,3.41,1.39,2.93,2.17,2.33,2.46,2.11,0
+Textiles,Medium,Manager,11.7,1,2.06,3.75,1.97,1.78,3.52,1.0,2.89,3.85,4.69,1.96,0
+Pharmaceuticals,Large,Supervisor,3.9,0,3.67,2.52,3.35,3.85,2.05,2.93,2.74,2.85,2.14,3.0,1
+Engineering Goods,Medium,Supervisor,7.2,1,4.01,3.33,3.73,4.29,3.84,3.6,4.73,1.74,2.81,4.49,2
+Textiles,Large,Manager,4.2,0,2.85,3.25,2.81,3.1,3.41,2.39,3.22,3.72,4.07,2.91,1
+Textiles,Large,Manager,6.2,1,2.35,3.43,2.55,1.51,3.37,2.39,2.49,3.74,1.79,2.4,0
+Textiles,Medium,Floor Worker,4.8,1,2.28,3.47,1.68,2.0,2.3,1.0,1.75,4.68,5.0,1.0,0
+Textiles,Large,Supervisor,2.8,1,3.06,3.36,2.48,3.41,3.21,1.56,3.55,3.43,3.37,2.62,0
+Food Processing,Medium,Supervisor,6.4,1,2.62,2.81,2.66,2.81,3.42,3.62,3.23,2.69,2.81,3.69,2
+Pharmaceuticals,Large,Supervisor,7.6,0,4.03,4.03,3.59,2.03,4.03,3.11,4.17,2.95,3.34,3.59,2
+Food Processing,Medium,Floor Worker,8.6,1,3.21,3.87,2.81,3.9,3.53,2.3,3.05,4.42,3.82,2.57,0
+Food Processing,Medium,Floor Worker,5.8,0,3.44,2.24,3.2,3.38,3.16,3.44,3.54,1.01,2.98,3.9,2
+Pharmaceuticals,Medium,Manager,1.0,1,4.31,3.57,3.92,3.34,2.36,3.87,2.45,1.99,3.28,3.12,1
+Engineering Goods,Small,Manager,6.6,1,3.51,2.38,3.86,3.94,3.82,4.1,3.14,2.49,2.84,3.66,2
+Textiles,Medium,Manager,1.6,1,2.0,2.48,2.27,2.0,2.48,2.62,2.4,2.51,4.39,2.56,0
+Textiles,Large,Manager,5.6,1,2.34,4.17,2.79,2.21,3.3,2.87,2.52,2.91,3.42,2.6,0
+Textiles,Medium,Supervisor,6.2,1,2.56,2.16,2.39,2.97,2.84,2.58,3.96,3.14,4.54,3.79,2
+Food Processing,Small,Manager,1.0,0,2.25,2.92,2.83,3.64,1.9,3.15,2.17,2.53,3.55,2.42,0
+Pharmaceuticals,Medium,Manager,5.0,1,2.65,3.06,2.98,3.79,2.26,3.19,2.82,2.96,1.66,2.97,1
+Textiles,Small,Supervisor,1.2,1,1.99,2.71,2.83,2.63,2.66,2.74,2.45,3.54,4.92,2.31,0
+Pharmaceuticals,Small,Supervisor,1.0,0,2.75,2.6,3.25,3.15,2.24,3.06,1.87,2.84,2.57,2.47,0
+Textiles,Large,Floor Worker,1.2,1,2.49,3.89,3.0,3.19,2.52,2.79,2.51,2.83,4.13,2.7,1
+Food Processing,Medium,Supervisor,4.6,0,2.66,2.2,2.72,2.06,1.75,2.86,2.72,2.98,3.08,2.98,1
+Pharmaceuticals,Medium,Floor Worker,4.3,0,4.15,3.17,3.92,4.13,3.85,3.09,3.27,2.97,3.69,3.25,1
+Pharmaceuticals,Medium,Floor Worker,3.3,0,3.52,2.79,3.97,2.9,3.87,3.9,3.09,1.48,2.1,3.23,1
+Textiles,Small,Supervisor,7.4,0,3.89,1.56,3.22,3.77,4.24,3.25,3.92,3.18,3.31,3.97,2
+Food Processing,Medium,Supervisor,4.1,1,2.98,3.11,2.62,2.88,1.91,2.62,2.51,2.91,3.0,2.48,0
+Pharmaceuticals,Large,Floor Worker,6.7,1,3.52,4.39,3.46,3.65,2.37,2.75,3.46,3.93,4.2,3.27,1
+Textiles,Medium,Manager,8.5,1,2.61,4.26,2.98,2.86,3.61,2.71,3.59,3.53,3.43,3.1,1
+Textiles,Large,Manager,20.0,1,3.1,3.97,2.59,1.23,5.0,1.0,4.74,4.85,4.69,3.48,2
+Engineering Goods,Medium,Floor Worker,4.6,0,3.47,1.98,3.28,3.43,2.66,4.09,3.14,1.85,1.0,3.43,2
+Engineering Goods,Medium,Floor Worker,11.2,1,4.54,3.52,3.98,4.36,4.26,3.28,3.2,2.65,2.81,3.53,2
+Food Processing,Large,Floor Worker,5.9,0,2.64,3.56,1.47,3.08,2.63,2.84,2.19,2.31,3.35,2.55,0
+Textiles,Large,Manager,6.2,1,3.49,3.98,3.2,3.27,4.16,2.55,3.17,2.78,3.36,2.91,1
+Engineering Goods,Large,Manager,4.7,0,3.65,3.52,3.35,4.42,3.22,3.37,2.39,3.63,3.48,2.84,1
+Food Processing,Large,Floor Worker,5.5,1,2.17,3.75,2.35,2.7,1.41,3.44,2.32,3.74,2.54,2.34,0
+Food Processing,Large,Manager,4.2,1,3.69,3.48,4.29,3.72,3.35,3.45,3.38,2.07,2.82,3.58,2
+Pharmaceuticals,Large,Floor Worker,9.9,1,4.54,3.15,3.32,4.6,4.15,4.27,3.81,2.11,3.22,4.54,2
+Textiles,Small,Floor Worker,2.7,1,1.72,1.66,1.66,2.46,2.43,2.71,1.15,3.11,1.56,1.2,0
+Textiles,Large,Manager,1.1,0,2.92,3.24,1.43,2.44,3.28,2.28,4.31,3.73,3.73,3.76,2
+Engineering Goods,Medium,Floor Worker,3.2,1,2.07,3.33,2.1,1.0,2.15,1.89,1.9,2.44,3.28,1.85,0
+Pharmaceuticals,Medium,Floor Worker,2.9,1,2.57,3.56,2.48,2.47,1.55,2.88,3.12,2.06,2.42,3.31,1
+Textiles,Medium,Supervisor,3.2,1,3.29,2.38,2.9,3.66,3.94,2.97,2.82,3.34,3.24,3.23,1
+Textiles,Large,Supervisor,4.5,1,2.63,3.93,3.4,2.59,3.31,2.16,2.74,2.19,4.23,2.45,0
+Pharmaceuticals,Large,Manager,3.2,1,2.99,4.81,3.5,3.51,2.52,2.39,1.43,3.03,4.0,1.4,0
+Textiles,Medium,Manager,4.4,1,2.75,3.27,2.88,2.97,3.96,2.89,3.84,3.17,2.95,3.92,2
+Engineering Goods,Large,Floor Worker,3.2,0,3.18,2.99,2.9,3.91,2.49,3.11,2.02,3.23,3.55,1.84,0
+Food Processing,Large,Floor Worker,6.8,1,2.88,3.72,3.52,2.78,2.43,3.3,1.99,2.78,3.45,2.39,0
+Food Processing,Medium,Manager,20.0,1,3.35,4.48,3.22,3.52,3.89,3.48,2.83,2.55,2.71,3.0,1
+Pharmaceuticals,Small,Floor Worker,5.8,1,2.3,2.21,2.06,2.91,1.73,2.27,2.53,3.9,2.86,2.56,0
+Food Processing,Small,Manager,3.3,1,1.95,2.97,1.3,3.29,2.38,1.93,2.94,3.71,3.05,2.49,0
+Pharmaceuticals,Large,Supervisor,1.0,0,3.81,2.53,3.29,2.5,2.5,2.3,3.63,2.94,3.9,3.17,1
+Food Processing,Medium,Floor Worker,16.6,1,3.5,2.88,3.77,3.06,3.16,4.53,2.71,2.3,2.26,3.56,2
+Textiles,Large,Manager,6.1,0,3.74,3.0,4.82,3.99,3.87,4.26,3.7,2.65,1.69,4.18,2
+Pharmaceuticals,Medium,Floor Worker,4.4,0,2.95,3.56,3.01,3.93,2.4,3.36,1.85,3.93,1.67,2.97,1
+Textiles,Large,Supervisor,1.0,1,3.54,4.65,2.92,3.51,3.9,1.79,3.41,4.09,4.13,2.96,1
+Pharmaceuticals,Medium,Supervisor,4.6,0,2.88,3.0,2.23,2.77,2.48,2.58,2.34,3.99,2.81,2.24,0
+Textiles,Large,Supervisor,5.5,0,4.12,2.8,4.07,4.17,4.27,4.17,4.11,2.06,2.68,4.19,2
+Textiles,Small,Supervisor,3.2,0,1.54,3.9,1.0,2.66,2.57,1.56,3.24,3.38,4.52,2.35,0
+Textiles,Medium,Supervisor,1.4,1,3.47,2.95,3.64,3.1,3.3,3.92,3.73,2.42,1.67,3.95,2
+Pharmaceuticals,Large,Manager,1.3,1,3.28,3.17,3.67,3.4,1.93,4.65,1.78,2.13,2.2,2.47,0
+Textiles,Large,Manager,16.8,1,4.24,2.42,4.09,4.5,4.94,3.59,4.87,2.1,2.61,4.74,2
+Engineering Goods,Large,Supervisor,5.4,0,3.9,3.9,3.48,4.72,3.42,2.85,3.24,3.89,3.33,3.52,2
+Pharmaceuticals,Small,Floor Worker,3.2,1,2.4,3.45,2.93,3.11,2.81,2.34,2.66,3.89,4.16,2.68,1
+Textiles,Medium,Supervisor,5.1,1,2.26,4.72,2.61,2.6,3.64,3.02,3.03,2.81,2.07,2.83,1
+Pharmaceuticals,Small,Manager,4.9,1,3.57,1.98,2.93,3.35,3.03,4.0,2.69,2.94,2.93,3.07,1
+Textiles,Small,Floor Worker,1.2,0,2.97,3.25,4.05,3.34,3.29,3.39,4.14,2.97,3.53,4.32,2
+Engineering Goods,Medium,Supervisor,9.4,0,3.15,2.76,2.89,3.05,3.36,3.06,3.4,3.44,2.84,3.28,1
+Pharmaceuticals,Large,Supervisor,4.3,1,3.74,4.03,3.95,3.6,2.1,2.77,2.45,2.27,3.0,2.27,0
+Food Processing,Large,Floor Worker,5.4,1,3.69,2.5,2.05,2.81,2.98,3.19,2.82,2.83,3.2,3.02,1
+Textiles,Large,Supervisor,13.2,1,3.02,4.44,3.75,3.82,3.92,2.87,4.96,3.04,3.3,4.59,2
+Pharmaceuticals,Large,Floor Worker,1.4,1,2.87,4.02,3.77,2.26,2.2,2.6,3.15,3.6,3.58,2.8,1
+Pharmaceuticals,Large,Manager,2.6,1,3.18,3.5,3.14,2.88,2.58,3.18,2.29,2.53,3.3,2.36,0
+Engineering Goods,Small,Manager,6.3,1,3.02,3.24,3.34,3.1,3.63,2.97,3.26,1.45,2.33,3.18,1
+Pharmaceuticals,Small,Manager,9.3,0,3.85,1.87,3.9,4.75,2.77,4.17,2.7,1.77,3.14,3.31,1
+Pharmaceuticals,Medium,Supervisor,3.0,1,4.44,2.86,3.59,3.66,2.72,3.5,2.86,2.73,3.57,3.16,1
+Textiles,Large,Floor Worker,3.1,1,3.44,3.24,3.61,2.89,4.25,3.59,3.45,2.77,2.85,3.42,2
+Textiles,Small,Supervisor,7.9,0,2.47,1.19,2.17,2.37,3.62,3.97,3.65,3.61,1.51,3.87,2
+Pharmaceuticals,Medium,Manager,19.9,1,3.87,3.75,3.23,4.57,3.6,3.65,4.19,3.07,2.62,4.1,2
+Pharmaceuticals,Medium,Supervisor,5.3,0,2.95,3.46,3.62,1.3,2.31,3.03,1.78,3.05,3.12,2.24,0
+Textiles,Small,Manager,2.6,1,2.18,2.41,3.02,1.92,2.67,2.75,2.13,3.12,2.32,2.1,0
+Engineering Goods,Medium,Floor Worker,1.9,0,2.65,2.94,2.36,4.46,2.68,2.78,2.49,3.82,2.85,2.25,0
+Engineering Goods,Large,Manager,4.5,1,2.7,3.36,2.38,3.2,3.09,3.02,2.8,2.63,2.01,3.13,1
+Textiles,Medium,Floor Worker,9.0,0,2.82,2.92,2.51,2.25,4.83,2.66,5.0,3.09,3.57,4.92,2
+Pharmaceuticals,Small,Floor Worker,20.0,1,3.18,2.45,3.55,3.11,3.51,2.64,3.88,2.5,3.28,3.7,2
+Textiles,Large,Supervisor,3.9,1,3.38,2.98,2.67,3.3,3.85,2.76,4.08,4.03,1.97,3.69,2
+Food Processing,Medium,Floor Worker,5.3,0,3.22,3.37,3.36,3.67,1.94,3.18,2.1,3.18,3.16,2.25,0
+Textiles,Large,Floor Worker,14.9,1,3.09,3.49,3.5,4.19,3.76,3.12,3.34,2.51,2.9,3.45,2
+Food Processing,Medium,Floor Worker,6.2,1,3.23,4.48,3.1,3.4,3.53,3.49,2.54,2.71,3.12,2.59,0
+Food Processing,Medium,Supervisor,5.9,1,2.84,3.25,3.48,2.6,2.85,3.26,3.3,3.21,2.61,3.59,2
+Food Processing,Medium,Manager,13.1,0,3.13,2.14,2.91,3.59,1.0,4.2,1.84,2.28,1.89,2.55,0
+Textiles,Medium,Floor Worker,5.4,1,2.13,3.98,2.29,2.07,3.23,2.21,3.84,3.06,2.83,3.48,2
+Engineering Goods,Large,Supervisor,2.1,0,3.76,3.42,2.94,2.87,4.31,2.82,3.76,2.69,2.71,3.41,2
+Textiles,Small,Manager,11.3,0,2.71,2.8,3.4,1.79,2.53,2.32,2.58,3.56,3.32,2.36,0
+Textiles,Small,Floor Worker,1.0,1,1.84,3.58,1.78,1.37,3.23,1.76,3.23,3.39,3.67,2.43,0
+Pharmaceuticals,Medium,Floor Worker,10.1,1,3.42,2.81,3.49,2.74,1.48,3.19,2.42,2.64,2.78,2.36,0
+Pharmaceuticals,Large,Manager,5.0,1,3.31,3.45,3.16,2.5,3.04,1.98,2.19,2.66,3.18,1.7,0
+Engineering Goods,Large,Manager,3.9,0,3.17,2.92,2.5,3.32,3.08,2.59,3.44,3.26,2.94,3.41,2
+Engineering Goods,Large,Supervisor,3.8,1,2.78,2.72,2.5,2.17,1.62,2.42,2.02,3.18,4.99,2.05,0
+Textiles,Medium,Manager,4.4,1,3.43,3.05,4.09,1.39,3.8,3.18,2.94,2.73,2.38,3.07,1
+Engineering Goods,Medium,Floor Worker,3.5,1,3.89,4.05,3.71,2.94,4.07,3.18,2.56,3.05,2.53,2.9,1
+Textiles,Small,Floor Worker,6.9,1,2.63,2.99,2.16,2.52,3.45,2.15,3.21,3.9,5.0,2.84,1
+Pharmaceuticals,Medium,Supervisor,3.6,0,4.67,1.88,4.3,3.69,3.55,4.41,4.16,2.78,2.63,4.81,2
+Textiles,Large,Floor Worker,5.0,0,2.81,2.06,2.79,3.83,3.02,3.37,3.92,3.19,1.87,3.96,2
+Engineering Goods,Large,Manager,1.0,1,5.0,4.56,5.0,4.19,3.26,2.8,3.35,2.96,3.67,3.48,2
+Textiles,Medium,Supervisor,5.0,1,2.46,3.16,2.8,3.23,3.4,2.64,4.34,2.83,2.53,3.88,2
+Textiles,Medium,Manager,3.4,0,2.77,2.32,2.63,2.88,4.04,3.63,3.67,2.05,3.33,3.87,2
+Pharmaceuticals,Large,Supervisor,9.6,0,3.45,2.86,4.13,3.28,3.51,2.66,3.86,2.8,3.01,3.42,2
+Engineering Goods,Medium,Floor Worker,4.1,0,3.43,1.8,2.22,2.79,2.2,3.05,2.18,3.0,2.67,2.47,0
+Engineering Goods,Small,Floor Worker,8.6,1,3.41,3.73,3.33,3.24,2.72,3.85,2.5,2.11,3.71,2.68,1
+Food Processing,Medium,Floor Worker,7.9,0,2.79,2.47,4.02,2.44,2.29,3.0,2.12,3.07,3.38,2.4,0
+Engineering Goods,Small,Manager,8.1,1,4.02,3.69,3.62,3.76,2.99,3.26,1.83,2.28,3.55,2.2,0
+Engineering Goods,Small,Floor Worker,4.2,1,3.02,2.88,2.01,2.9,3.03,1.83,3.71,2.53,3.84,2.98,1
+Pharmaceuticals,Small,Floor Worker,5.2,0,3.24,3.24,2.93,2.6,2.73,3.67,2.44,3.21,2.38,2.53,0
+Textiles,Medium,Floor Worker,6.8,1,2.01,3.38,3.19,3.02,2.14,2.9,1.94,2.76,3.46,1.88,0
+Food Processing,Medium,Floor Worker,5.3,1,3.14,3.75,3.31,3.37,3.18,3.01,2.45,2.48,3.82,2.44,0
+Food Processing,Medium,Manager,4.1,1,2.78,3.66,2.36,2.62,2.8,3.13,2.73,2.26,3.03,3.0,1
+Pharmaceuticals,Medium,Floor Worker,2.3,0,2.99,3.11,2.6,3.11,1.91,3.18,3.2,3.2,4.15,3.38,2
+Textiles,Large,Manager,5.0,0,2.42,3.25,2.29,2.62,2.93,1.98,4.09,4.37,4.05,3.25,1
+Food Processing,Large,Floor Worker,1.2,0,4.93,2.88,4.51,3.69,2.53,3.53,1.73,2.51,2.9,2.01,0
+Textiles,Medium,Supervisor,1.0,1,2.43,4.41,3.4,2.72,2.6,2.88,2.51,2.94,3.23,2.22,0
+Engineering Goods,Medium,Supervisor,1.8,1,2.24,2.65,3.11,2.19,2.42,2.54,2.01,3.91,3.3,2.0,0
+Textiles,Large,Floor Worker,8.0,0,2.48,3.03,2.91,2.14,3.32,1.47,3.75,2.61,2.84,2.98,1
+Textiles,Small,Manager,6.0,0,2.25,2.35,1.72,1.58,3.17,2.18,3.25,4.65,3.31,2.69,1
+Engineering Goods,Medium,Manager,8.1,1,3.55,3.47,2.59,3.15,3.68,1.86,3.1,5.0,3.68,2.96,1
+Textiles,Large,Manager,2.8,0,3.29,2.76,3.51,3.55,3.24,4.37,3.18,1.0,2.07,3.47,2
+Textiles,Medium,Floor Worker,10.2,0,3.05,2.91,2.25,2.64,3.85,2.68,3.3,3.11,3.38,3.12,1
+Pharmaceuticals,Large,Floor Worker,1.3,1,3.29,3.42,3.07,4.73,2.84,2.9,3.76,2.61,3.06,3.87,2
+Engineering Goods,Medium,Supervisor,1.9,0,3.41,1.73,3.45,3.82,3.04,3.47,3.31,2.62,3.31,3.75,2
+Textiles,Medium,Floor Worker,10.1,0,2.03,2.72,1.69,3.22,3.28,1.51,3.54,3.47,4.14,2.81,1
+Textiles,Medium,Supervisor,5.6,1,2.2,2.53,1.87,3.02,2.83,2.04,1.39,3.99,3.56,1.01,0
+Food Processing,Small,Supervisor,8.1,0,1.94,1.26,2.24,3.5,1.92,3.97,2.2,2.48,1.6,2.64,0
+Engineering Goods,Medium,Supervisor,6.0,1,2.42,3.3,2.9,2.19,3.05,3.85,4.16,2.03,3.84,4.5,2
+Pharmaceuticals,Small,Manager,3.1,1,3.75,3.15,4.12,1.94,2.4,3.51,3.3,2.66,2.66,3.38,2
+Textiles,Large,Supervisor,1.7,1,3.38,3.86,3.61,2.99,3.56,2.91,2.34,3.39,2.98,2.45,0
+Textiles,Medium,Floor Worker,1.0,0,3.24,3.07,3.21,3.51,3.25,2.97,2.98,2.28,2.77,3.04,1
+Textiles,Medium,Floor Worker,15.8,1,2.63,2.01,2.32,2.89,3.65,2.45,2.76,2.24,2.91,2.49,0
+Textiles,Large,Supervisor,1.0,0,3.44,2.18,2.67,3.46,3.18,4.43,4.05,3.59,3.4,4.54,2
+Food Processing,Large,Supervisor,12.8,1,2.04,4.76,2.06,3.24,2.34,1.95,2.66,3.12,4.44,1.94,0
+Textiles,Medium,Floor Worker,5.4,0,3.17,2.07,3.35,3.36,2.61,4.76,2.28,2.08,2.49,3.01,1
+Pharmaceuticals,Medium,Supervisor,6.1,1,3.5,3.6,3.53,3.82,2.93,4.06,2.95,2.25,2.43,3.3,1
+Food Processing,Large,Manager,5.8,0,3.6,2.6,2.18,2.83,3.19,1.73,1.67,3.98,4.01,1.29,0
+Pharmaceuticals,Medium,Manager,7.4,0,3.63,2.77,2.97,2.76,3.34,2.6,2.61,4.33,3.23,2.71,1
+Textiles,Large,Supervisor,2.5,1,2.29,3.13,3.22,3.56,2.51,2.84,2.66,3.46,2.94,2.66,1
+Engineering Goods,Large,Floor Worker,1.0,0,2.54,3.38,2.74,2.81,3.53,2.64,3.81,2.23,3.4,3.33,2
+Food Processing,Large,Floor Worker,3.1,0,2.73,3.12,1.99,2.48,2.2,2.32,1.35,2.47,3.01,1.41,0
+Food Processing,Small,Supervisor,7.0,1,2.91,2.56,4.31,2.6,2.29,5.0,2.27,1.67,2.12,3.21,1
+Textiles,Medium,Floor Worker,1.9,1,3.05,2.56,3.02,2.67,2.67,2.43,3.31,3.12,3.4,2.91,1
+Textiles,Small,Supervisor,10.4,0,1.39,2.51,2.14,1.61,1.85,2.48,1.38,2.18,3.65,1.08,0
+Engineering Goods,Medium,Supervisor,4.5,1,2.55,2.46,2.93,1.98,3.57,3.17,3.49,3.45,2.49,3.78,2
+Pharmaceuticals,Large,Floor Worker,1.7,1,3.24,3.79,2.95,2.27,3.03,2.47,3.03,2.59,3.73,2.7,1
+Textiles,Medium,Floor Worker,5.6,1,2.37,4.85,2.16,2.52,3.34,1.91,4.16,4.49,2.88,3.64,2
+Pharmaceuticals,Medium,Floor Worker,6.9,1,2.5,4.06,3.9,2.36,1.73,2.23,1.98,4.54,2.96,1.78,0
+Food Processing,Small,Manager,7.2,1,1.61,3.29,2.66,2.84,2.97,2.75,2.86,2.98,2.75,2.91,1
+Engineering Goods,Large,Supervisor,10.1,1,2.98,3.47,3.47,3.19,3.17,3.38,3.57,3.11,2.08,3.84,2
+Textiles,Small,Floor Worker,1.2,1,2.34,1.64,2.89,2.78,2.59,3.52,1.96,1.99,3.46,2.31,0
+Engineering Goods,Small,Manager,10.1,1,2.1,2.02,1.81,2.02,3.6,2.82,3.27,3.5,2.41,3.15,1
+Textiles,Small,Supervisor,10.8,0,2.2,3.14,3.21,2.47,3.6,3.66,3.13,2.38,2.21,3.66,2
+Pharmaceuticals,Small,Supervisor,1.7,0,3.75,1.85,3.01,3.71,3.75,4.13,3.42,1.78,3.34,3.83,2
+Food Processing,Medium,Manager,2.0,0,2.02,2.28,2.51,2.86,2.06,3.01,2.8,2.83,2.6,2.79,1
+Textiles,Medium,Floor Worker,8.4,1,2.47,3.11,1.69,2.65,3.05,1.61,3.32,3.39,3.51,2.62,0
+Textiles,Medium,Floor Worker,3.6,0,3.27,2.06,2.0,3.85,3.1,2.79,2.63,2.91,2.39,2.39,0
+Pharmaceuticals,Small,Supervisor,11.9,1,2.79,2.08,3.04,2.9,1.71,3.16,2.17,3.54,3.49,2.47,0
+Engineering Goods,Small,Floor Worker,14.1,1,2.49,2.81,2.19,3.19,3.18,2.9,3.92,2.57,3.63,3.72,2
+Pharmaceuticals,Medium,Supervisor,1.7,1,4.14,2.66,2.61,3.44,3.43,2.8,2.81,4.21,3.6,2.47,0
+Engineering Goods,Small,Floor Worker,2.5,0,2.67,1.88,3.09,1.73,3.02,2.48,3.07,2.43,3.61,2.64,0
+Engineering Goods,Medium,Floor Worker,5.4,1,3.91,2.73,4.85,3.75,3.61,3.44,3.29,3.82,2.84,3.26,1
+Pharmaceuticals,Small,Floor Worker,1.0,1,3.34,3.17,4.04,3.67,1.8,2.66,2.12,2.54,2.79,2.34,0
+Food Processing,Medium,Supervisor,1.0,0,2.64,2.57,2.61,3.16,2.34,2.88,1.62,3.07,2.49,1.71,0
+Textiles,Medium,Floor Worker,2.2,1,2.92,3.11,2.95,3.23,3.66,2.17,4.21,3.11,4.27,3.69,2
+Textiles,Medium,Floor Worker,17.4,0,2.81,3.09,3.39,2.7,4.24,2.47,3.4,3.05,3.77,2.99,1
+Engineering Goods,Small,Manager,6.0,1,3.53,2.75,4.01,2.87,3.51,3.24,3.89,3.4,2.4,3.63,2
+Food Processing,Small,Floor Worker,2.9,1,2.18,2.67,2.25,2.86,1.66,1.97,1.71,4.46,3.5,1.6,0
+Textiles,Large,Floor Worker,2.0,0,2.96,3.32,2.99,3.26,3.59,3.17,3.04,3.69,2.71,3.04,1
+Pharmaceuticals,Small,Floor Worker,1.6,0,3.02,2.76,3.19,2.7,1.0,3.48,1.95,2.53,2.0,2.43,0
+Food Processing,Medium,Floor Worker,3.1,0,3.32,2.63,3.54,3.9,2.94,3.32,3.49,2.98,2.97,3.8,2
+Engineering Goods,Medium,Floor Worker,2.9,0,2.52,2.77,2.6,2.2,3.99,2.4,3.78,2.81,2.99,3.15,1
+Food Processing,Medium,Supervisor,4.1,1,3.53,2.73,3.28,3.0,2.13,3.51,2.8,2.15,2.1,2.76,1
+Pharmaceuticals,Medium,Floor Worker,7.1,0,3.69,2.18,4.27,4.44,2.78,3.86,2.66,1.88,1.58,3.01,1
+Pharmaceuticals,Large,Manager,4.7,0,2.85,3.51,3.61,3.46,2.27,2.78,2.47,2.85,2.02,2.45,0
+Pharmaceuticals,Large,Manager,8.8,1,4.5,3.81,4.28,3.73,3.23,4.18,2.77,2.61,2.19,3.26,1
+Food Processing,Medium,Floor Worker,3.9,1,4.32,3.5,4.89,4.01,3.91,4.45,4.1,1.11,2.26,4.64,2
+Engineering Goods,Medium,Floor Worker,14.9,1,3.84,3.39,3.34,3.64,4.39,3.54,3.55,2.73,2.14,3.6,2
+Pharmaceuticals,Small,Floor Worker,8.6,1,3.99,2.87,4.61,1.98,3.25,3.94,3.97,3.52,3.01,3.84,2
+Textiles,Medium,Supervisor,5.9,0,2.66,3.15,3.09,2.27,3.63,1.63,3.23,4.38,3.58,2.55,0
+Textiles,Medium,Floor Worker,7.1,1,1.52,3.8,3.91,2.09,2.64,3.6,2.74,2.36,3.12,2.96,1
+Food Processing,Small,Manager,3.1,0,1.34,2.91,1.19,1.79,3.27,2.08,3.58,2.58,3.3,3.14,1
+Engineering Goods,Medium,Manager,4.1,1,3.36,3.15,2.84,3.4,3.28,3.56,3.18,3.04,2.19,3.49,2
+Textiles,Large,Manager,4.0,1,2.55,4.39,2.94,3.43,3.13,2.84,2.9,1.63,3.15,2.98,1
+Textiles,Small,Supervisor,2.6,1,1.68,2.99,2.35,2.02,1.55,2.43,1.96,3.99,2.39,1.97,0
+Pharmaceuticals,Medium,Manager,1.4,1,3.35,3.61,4.37,2.6,2.06,3.09,2.83,2.83,3.32,2.86,1
+Textiles,Large,Floor Worker,7.4,1,3.33,3.7,2.83,3.43,4.29,3.02,3.5,4.16,2.34,3.39,2
+Engineering Goods,Small,Supervisor,9.7,0,1.92,2.5,2.8,2.17,2.02,2.64,2.23,2.1,3.8,2.11,0
+Textiles,Small,Floor Worker,6.7,1,1.99,2.38,3.0,2.31,1.74,3.47,2.12,3.37,2.54,2.5,0
+Textiles,Small,Manager,4.7,1,3.26,3.28,3.59,3.01,3.5,2.25,3.8,3.31,4.07,3.32,2
+Engineering Goods,Large,Supervisor,19.4,1,2.82,5.0,2.32,4.27,4.56,2.0,3.99,3.29,2.68,3.33,2
+Textiles,Small,Manager,2.8,1,2.85,2.61,3.72,1.58,3.15,4.14,4.08,1.6,2.0,4.27,2
+Textiles,Small,Floor Worker,6.0,0,1.96,2.39,3.02,2.16,2.64,2.59,2.64,3.59,3.45,2.69,1
+Textiles,Small,Manager,10.7,1,2.63,2.57,3.11,2.8,2.52,2.98,2.52,3.45,3.81,2.43,0
+Textiles,Small,Supervisor,1.8,0,2.99,2.04,3.12,2.55,3.39,2.72,3.15,4.28,4.27,3.07,1
+Textiles,Medium,Supervisor,7.8,0,3.09,3.68,3.19,3.63,3.92,3.22,2.88,3.54,2.92,2.98,1
+Textiles,Small,Manager,15.5,0,2.87,1.93,2.87,3.44,2.99,3.01,2.4,2.63,4.26,2.57,0
+Textiles,Medium,Floor Worker,5.0,1,1.85,2.92,2.61,2.3,3.28,2.52,2.88,2.61,3.02,2.8,1
+Textiles,Medium,Floor Worker,5.6,0,3.33,1.73,3.24,3.07,3.98,4.02,4.28,1.66,3.28,4.23,2
+Pharmaceuticals,Large,Supervisor,2.9,0,3.16,2.56,2.61,3.06,2.93,2.59,2.91,4.14,2.54,2.67,1
+Food Processing,Small,Floor Worker,7.1,0,2.71,1.28,2.2,2.79,2.94,3.6,2.67,2.24,3.01,2.8,1
+Pharmaceuticals,Large,Floor Worker,2.5,1,3.88,3.92,3.15,3.52,3.07,3.37,3.7,3.77,1.21,4.02,2
+Textiles,Medium,Floor Worker,4.7,1,2.92,4.96,3.08,2.87,3.56,2.91,4.22,3.39,2.26,3.71,2
+Pharmaceuticals,Small,Floor Worker,1.2,0,3.28,2.12,3.17,3.35,2.76,3.55,3.5,2.96,3.06,3.56,2
+Engineering Goods,Large,Manager,1.0,0,2.97,1.99,3.1,3.46,1.83,5.0,1.7,1.69,1.0,3.04,1
+Engineering Goods,Large,Supervisor,3.4,1,2.64,4.09,3.05,2.06,1.95,2.94,1.98,3.46,3.32,2.03,0
+Textiles,Medium,Floor Worker,3.3,0,3.17,2.27,2.75,2.5,2.96,3.16,3.95,2.93,3.55,3.91,2
+Textiles,Large,Supervisor,3.6,1,3.05,4.34,3.89,2.0,3.23,2.12,3.27,3.21,3.06,2.75,1
+Textiles,Medium,Supervisor,8.4,0,3.35,2.54,3.08,3.77,3.97,3.36,3.5,3.28,2.16,3.38,2
+Textiles,Medium,Supervisor,9.9,1,2.58,2.82,2.46,2.92,3.58,3.59,3.77,2.64,2.39,3.88,2
+Pharmaceuticals,Large,Manager,6.2,0,2.8,2.92,3.15,3.21,2.92,4.11,3.48,1.98,1.82,3.54,2
+Pharmaceuticals,Medium,Manager,8.0,1,4.02,3.69,2.61,2.79,3.75,3.35,3.18,3.22,2.76,3.5,2
+Textiles,Large,Floor Worker,2.6,0,2.69,2.89,2.33,3.91,2.56,3.46,2.8,2.75,2.85,3.03,1
+Pharmaceuticals,Medium,Floor Worker,2.1,1,3.61,2.91,3.98,3.03,2.67,2.75,3.26,3.45,2.9,3.1,1
+Pharmaceuticals,Large,Supervisor,7.2,1,3.29,3.4,2.18,3.31,2.23,2.87,1.81,2.79,4.21,2.11,0
+Textiles,Medium,Supervisor,1.8,1,3.68,2.42,4.1,3.96,3.44,3.26,3.29,2.13,2.38,3.26,1
+Engineering Goods,Small,Supervisor,1.6,1,2.29,3.09,3.41,2.0,2.6,1.98,2.09,4.6,4.43,1.79,0
+Textiles,Medium,Supervisor,20.0,0,2.39,1.61,2.37,2.32,2.14,3.11,1.84,3.94,2.23,1.91,0
+Engineering Goods,Medium,Supervisor,5.2,1,3.26,2.94,3.35,3.3,4.48,3.54,3.68,3.31,2.79,3.56,2
+Textiles,Small,Floor Worker,3.3,1,1.57,3.32,2.69,3.87,2.72,3.53,3.05,2.52,3.57,3.19,1
+Engineering Goods,Small,Floor Worker,3.0,0,3.08,2.53,2.78,3.26,2.66,3.41,2.57,2.63,3.59,2.74,1
+Engineering Goods,Medium,Floor Worker,1.2,1,4.24,3.58,4.34,4.76,4.54,4.22,3.68,3.3,2.14,4.14,2
+Engineering Goods,Small,Floor Worker,6.1,1,2.55,2.8,2.31,3.48,2.68,2.34,2.78,3.11,3.68,2.72,1
+Engineering Goods,Small,Floor Worker,3.9,1,3.12,3.57,2.81,3.33,3.12,2.75,2.43,2.74,3.4,2.46,0
+Food Processing,Large,Supervisor,9.7,1,1.4,4.1,1.46,1.45,1.79,1.0,2.38,5.0,3.73,1.78,0
+Food Processing,Large,Floor Worker,7.3,1,3.17,3.81,3.31,3.77,3.78,1.96,4.14,3.49,3.9,3.16,1
+Food Processing,Large,Floor Worker,3.8,1,2.99,4.11,3.67,2.12,2.54,3.05,2.62,4.11,4.26,2.68,1
+Textiles,Medium,Supervisor,1.0,0,2.07,3.19,2.27,3.42,2.65,2.31,2.62,2.46,3.64,2.5,0
+Pharmaceuticals,Large,Manager,5.2,0,4.42,2.76,3.21,4.02,3.84,3.97,3.76,2.88,2.94,4.25,2
+Pharmaceuticals,Medium,Floor Worker,4.9,0,3.17,1.88,2.49,1.53,2.77,3.31,1.7,4.17,3.31,2.07,0
+Engineering Goods,Small,Manager,1.0,1,2.75,3.1,3.06,2.67,2.63,2.53,3.02,3.26,2.21,3.22,1
+Pharmaceuticals,Small,Manager,6.7,0,2.82,2.68,3.95,3.31,2.96,3.94,4.67,2.4,2.88,4.99,2
+Pharmaceuticals,Medium,Supervisor,1.7,0,2.14,3.4,2.65,2.36,3.01,2.13,2.91,2.7,2.7,2.74,1
+Food Processing,Small,Supervisor,10.1,0,1.8,1.76,1.97,2.72,2.47,1.83,2.55,4.26,3.13,1.96,0
+Textiles,Medium,Floor Worker,4.6,0,3.23,2.15,3.6,2.66,3.52,3.5,3.75,2.29,4.26,3.97,2
+Textiles,Large,Manager,2.9,1,1.56,3.81,1.89,1.35,2.48,1.45,3.53,3.7,3.54,2.62,0
+Pharmaceuticals,Small,Floor Worker,5.8,0,2.56,2.3,2.49,2.72,2.86,2.66,3.42,2.4,2.64,3.31,1
+Pharmaceuticals,Small,Manager,5.5,0,2.8,1.17,2.31,2.92,1.98,4.4,1.08,3.33,3.14,2.1,0
+Textiles,Large,Supervisor,5.4,1,4.07,3.76,4.54,3.47,3.84,2.68,3.87,3.9,2.49,3.68,2
+Pharmaceuticals,Medium,Floor Worker,9.2,0,3.89,1.56,2.12,4.31,2.34,3.71,3.95,2.65,2.36,4.02,2
+Pharmaceuticals,Small,Floor Worker,6.1,0,2.7,1.76,3.26,2.33,1.65,2.75,2.39,2.41,3.97,2.32,0
+Textiles,Large,Supervisor,2.7,0,3.78,3.87,3.25,3.7,3.38,3.53,2.6,3.73,2.78,2.84,1
+Pharmaceuticals,Large,Supervisor,4.0,1,3.23,4.66,2.92,3.21,2.42,2.62,2.73,2.97,2.09,2.6,0
+Food Processing,Medium,Floor Worker,12.6,0,3.52,1.96,4.34,2.41,4.38,3.95,3.22,1.86,2.93,3.96,2
+Textiles,Medium,Supervisor,2.5,1,1.72,3.01,1.73,1.44,2.74,1.41,3.48,2.67,3.46,2.56,0
+Engineering Goods,Medium,Manager,6.7,1,3.89,3.24,3.2,3.58,3.19,2.74,2.58,2.73,4.18,2.73,1
+Engineering Goods,Small,Supervisor,9.4,1,2.6,3.95,2.66,3.98,2.71,3.34,2.82,1.93,2.42,2.86,1
+Pharmaceuticals,Medium,Supervisor,7.1,0,2.72,2.41,3.05,3.2,3.07,4.27,2.55,2.01,3.13,3.19,1
+Textiles,Medium,Floor Worker,5.2,1,2.46,2.92,2.38,1.66,3.65,2.6,3.12,3.68,4.41,2.85,1
+Pharmaceuticals,Medium,Manager,5.9,1,3.57,4.18,2.46,1.5,2.77,1.38,3.64,3.56,3.16,2.92,1
+Engineering Goods,Large,Floor Worker,7.5,0,3.19,2.8,2.63,3.59,3.08,3.27,3.09,3.11,2.74,3.1,1
+Food Processing,Small,Manager,2.5,1,2.9,3.29,3.68,2.91,3.05,4.53,2.7,1.82,2.56,3.37,2
+Engineering Goods,Medium,Floor Worker,4.9,0,2.81,1.8,2.92,3.6,2.41,3.6,1.94,2.77,2.13,2.61,0
+Pharmaceuticals,Small,Supervisor,19.3,0,3.47,2.24,3.58,2.78,3.74,4.25,2.45,3.63,2.6,2.79,1
+Food Processing,Large,Floor Worker,6.8,0,3.48,2.0,3.17,3.53,4.26,3.15,3.15,2.72,2.77,3.11,1
+Textiles,Medium,Floor Worker,5.4,0,2.57,2.06,2.33,3.27,3.23,3.07,3.2,3.22,2.79,3.05,1
+Food Processing,Medium,Manager,3.7,0,2.58,3.24,3.69,2.5,1.94,3.4,2.79,1.83,2.84,3.09,1
+Textiles,Medium,Supervisor,2.5,1,2.7,3.19,2.69,2.59,3.24,2.89,2.83,4.03,3.1,2.65,0
+Food Processing,Medium,Supervisor,6.0,1,3.22,3.02,2.89,3.18,2.62,2.56,3.59,2.93,3.31,3.54,2
+Engineering Goods,Medium,Manager,6.3,0,4.53,2.25,4.67,4.3,3.28,3.91,2.78,3.24,2.16,3.22,1
+Textiles,Large,Manager,4.6,1,3.54,3.39,2.94,3.35,4.01,3.5,3.54,2.7,2.38,3.72,2
+Food Processing,Medium,Manager,20.0,1,3.5,3.4,2.99,3.92,4.48,3.81,3.4,3.01,2.54,3.55,2
+Textiles,Large,Floor Worker,2.7,0,4.94,3.64,4.31,3.94,4.16,4.48,4.32,2.72,2.28,4.33,2
+Food Processing,Large,Supervisor,2.2,0,3.53,1.39,3.35,2.55,2.6,4.56,3.87,1.98,1.97,4.55,2
+Textiles,Medium,Manager,3.7,0,2.92,2.2,3.1,4.17,2.72,3.74,1.81,3.35,2.88,1.96,0
+Engineering Goods,Medium,Floor Worker,4.8,0,3.65,2.82,4.65,3.06,3.33,3.61,3.01,2.24,1.46,3.41,2
+Textiles,Small,Floor Worker,2.4,0,1.62,2.28,2.27,1.84,2.1,3.32,3.06,3.36,2.35,3.11,1
+Engineering Goods,Large,Manager,5.9,0,3.23,3.28,1.77,3.13,2.71,2.8,1.98,2.87,2.9,2.12,0
+Engineering Goods,Medium,Supervisor,6.4,1,2.86,3.38,3.1,2.98,4.05,2.34,4.01,3.56,2.71,3.42,2
+Pharmaceuticals,Medium,Supervisor,8.1,0,3.81,2.53,3.56,3.29,3.28,2.9,3.84,2.77,4.17,3.57,2
+Food Processing,Small,Manager,3.2,0,2.43,2.02,2.64,2.66,2.54,3.34,2.7,2.88,2.85,2.93,1
+Food Processing,Large,Supervisor,11.9,0,3.28,2.88,3.33,3.18,3.73,3.13,3.78,2.28,3.06,3.66,2
+Engineering Goods,Medium,Supervisor,7.7,1,3.9,3.93,3.59,3.69,4.14,3.12,4.74,3.11,2.6,4.32,2
+Textiles,Medium,Floor Worker,2.7,0,3.17,2.26,3.08,1.71,3.08,3.48,4.11,2.81,2.76,3.87,2
+Pharmaceuticals,Small,Supervisor,2.4,1,2.96,2.8,3.33,4.14,2.33,3.98,2.48,2.2,1.7,3.13,1
+Textiles,Large,Floor Worker,3.9,0,2.49,3.14,2.35,2.63,2.85,3.29,2.58,2.84,2.74,2.27,0
+Food Processing,Small,Manager,6.4,0,3.28,3.32,2.64,3.55,3.15,1.8,2.57,3.68,2.9,2.52,0
+Textiles,Small,Manager,7.1,1,2.78,2.66,4.62,2.06,3.53,3.66,3.89,2.31,2.5,4.25,2
+Pharmaceuticals,Large,Floor Worker,7.7,0,2.67,3.63,2.36,2.54,2.15,2.74,1.63,3.06,1.35,1.88,0
+Pharmaceuticals,Large,Floor Worker,18.5,0,3.51,3.8,3.4,2.93,2.81,2.01,2.71,2.86,2.68,2.44,0
+Pharmaceuticals,Small,Manager,1.0,0,3.17,2.31,2.24,4.02,2.3,2.84,2.55,4.58,4.08,2.29,0
+Pharmaceuticals,Medium,Floor Worker,4.5,1,3.89,3.09,3.67,3.22,2.75,2.84,2.53,3.76,3.64,2.84,1
+Food Processing,Large,Supervisor,17.5,1,3.78,3.32,2.98,3.97,2.91,3.18,3.07,3.1,3.82,2.92,1
+Food Processing,Large,Supervisor,8.4,1,3.38,3.37,3.0,2.87,3.37,3.74,4.65,3.4,3.61,4.75,2
+Pharmaceuticals,Medium,Supervisor,2.0,1,3.77,3.75,4.12,3.23,3.14,4.43,3.01,1.07,2.8,3.65,2
+Pharmaceuticals,Medium,Floor Worker,5.7,0,3.43,2.86,3.56,3.14,3.99,2.86,3.42,1.47,2.75,3.3,1
+Engineering Goods,Large,Supervisor,4.3,1,3.08,3.67,3.38,3.85,2.85,3.49,3.43,2.53,2.05,3.58,2
+Textiles,Large,Floor Worker,4.2,0,2.76,2.33,1.81,1.74,2.88,2.62,3.03,2.33,3.96,2.95,1
+Textiles,Large,Supervisor,3.2,1,2.94,2.93,4.03,2.2,2.62,3.43,3.51,2.66,2.84,3.66,2
+Textiles,Medium,Floor Worker,5.4,0,2.58,4.05,2.03,1.6,3.24,2.0,3.23,3.63,5.0,3.38,2
+Food Processing,Small,Supervisor,10.5,0,1.31,2.23,2.76,1.33,2.15,2.79,2.25,3.7,2.84,2.68,1
+Pharmaceuticals,Large,Supervisor,3.4,1,3.45,3.05,3.9,2.82,2.11,4.26,1.38,1.69,3.77,2.51,0
+Food Processing,Large,Floor Worker,7.8,0,3.23,3.92,3.49,2.19,2.89,3.26,2.0,3.14,2.77,2.63,0
+Food Processing,Large,Floor Worker,8.7,1,3.01,3.7,2.51,2.59,1.87,1.81,1.19,3.6,4.47,1.0,0
+Textiles,Small,Floor Worker,11.9,0,2.12,2.7,2.5,1.27,3.75,2.78,3.71,3.34,4.27,3.52,2
+Engineering Goods,Small,Floor Worker,2.3,1,3.18,2.76,2.85,2.53,2.59,3.36,1.94,2.51,2.12,2.41,0
+Food Processing,Large,Floor Worker,5.0,1,2.49,3.33,2.67,3.44,2.37,3.05,3.24,3.87,2.64,3.01,1
+Textiles,Small,Manager,2.9,0,1.22,2.24,1.66,2.18,1.45,3.05,1.92,2.93,2.26,2.34,0
+Pharmaceuticals,Large,Supervisor,5.4,1,3.49,2.67,2.14,3.44,2.37,2.97,2.41,4.15,2.16,2.68,1
+Textiles,Medium,Manager,5.3,1,3.1,3.16,3.72,2.49,3.28,3.2,2.7,2.42,3.36,2.56,0
+Textiles,Large,Manager,1.8,1,4.03,3.71,3.64,2.73,3.74,3.01,3.83,3.48,2.85,3.48,2
+Textiles,Large,Floor Worker,5.6,0,3.44,4.18,3.01,2.61,3.89,1.33,3.15,3.78,3.8,2.25,0
+Engineering Goods,Medium,Supervisor,19.1,1,2.23,3.27,2.16,2.53,4.24,2.34,3.29,3.13,3.69,2.79,1
+Pharmaceuticals,Medium,Manager,7.1,1,3.24,1.76,3.37,3.7,3.03,3.4,3.65,3.22,1.53,3.97,2
+Pharmaceuticals,Medium,Supervisor,1.5,1,3.55,3.16,2.85,3.91,2.98,2.48,3.16,3.08,4.12,2.74,1
+Food Processing,Medium,Supervisor,2.2,0,2.98,4.42,1.68,3.4,3.25,2.86,3.02,1.4,2.82,3.05,1
+Pharmaceuticals,Medium,Supervisor,4.9,0,3.74,3.26,3.73,3.04,3.09,3.51,3.39,1.0,3.12,3.23,1
+Engineering Goods,Medium,Floor Worker,2.3,1,2.59,2.71,3.03,2.79,2.63,3.02,2.73,3.81,3.42,2.63,0
+Food Processing,Large,Supervisor,11.4,0,3.23,3.4,3.04,2.98,3.74,2.54,3.7,4.01,4.15,3.5,2
+Pharmaceuticals,Medium,Manager,1.3,1,3.66,2.75,2.78,3.31,3.09,3.24,2.59,4.09,2.81,2.85,1
+Pharmaceuticals,Small,Manager,7.2,1,3.6,2.0,3.45,4.63,3.19,4.59,4.26,2.24,1.0,5.0,2
+Engineering Goods,Medium,Floor Worker,1.0,0,2.67,2.5,1.92,1.76,1.85,1.83,1.86,2.76,3.57,1.18,0
+Food Processing,Medium,Supervisor,4.8,0,2.64,2.78,2.16,2.67,2.01,2.59,3.16,2.95,3.32,2.8,1
+Engineering Goods,Small,Floor Worker,2.0,1,1.1,1.68,1.29,2.59,1.63,3.06,1.93,3.0,2.26,1.68,0
+Textiles,Small,Manager,8.1,0,1.87,1.63,2.74,1.45,3.3,1.76,3.63,2.98,3.67,2.69,1
+Engineering Goods,Medium,Floor Worker,10.2,1,2.85,3.22,2.69,2.55,3.27,2.6,3.57,4.25,2.93,3.59,2
+Food Processing,Medium,Manager,6.4,1,2.2,2.96,2.2,2.22,2.9,2.17,3.54,4.83,2.45,3.4,2
+Textiles,Large,Manager,10.5,1,3.04,3.77,4.16,2.92,4.4,3.13,3.48,3.26,3.4,3.58,2
+Pharmaceuticals,Small,Floor Worker,1.0,0,3.02,1.59,3.22,2.08,2.77,2.99,3.41,3.01,2.61,3.08,1
+Food Processing,Small,Floor Worker,5.6,1,1.07,3.29,1.9,2.2,2.23,2.24,3.47,2.56,3.07,2.91,1
+Textiles,Large,Manager,7.1,1,3.07,2.79,2.83,3.47,2.98,4.22,2.82,3.41,2.11,3.37,2
+Pharmaceuticals,Large,Floor Worker,7.7,0,3.11,4.05,2.73,3.4,2.86,2.45,2.9,3.33,4.1,2.57,0
+Engineering Goods,Medium,Supervisor,6.8,1,3.51,2.15,2.07,2.81,3.13,2.98,2.78,2.84,2.98,2.7,1
+Textiles,Small,Manager,7.9,1,1.44,2.16,2.52,2.12,1.77,3.92,1.94,2.88,2.63,2.5,0
+Pharmaceuticals,Small,Supervisor,5.5,1,3.08,3.1,3.32,2.53,2.3,2.63,3.44,2.82,2.86,3.11,1
+Pharmaceuticals,Medium,Floor Worker,1.5,1,3.2,4.25,3.03,2.95,2.97,3.59,2.4,2.83,3.04,2.58,0
+Textiles,Medium,Supervisor,3.2,0,2.8,2.91,2.79,4.21,3.36,3.3,2.71,1.96,3.79,3.03,1
+Engineering Goods,Medium,Floor Worker,11.5,0,3.27,3.07,3.61,3.25,4.67,4.31,5.0,3.07,2.83,5.0,2
+Food Processing,Small,Manager,10.6,0,2.37,2.36,1.68,1.93,2.76,2.72,3.16,3.08,3.6,3.21,1
+Textiles,Medium,Floor Worker,7.0,0,1.6,2.08,1.72,2.28,3.95,2.69,4.81,3.9,3.56,4.27,2
+Engineering Goods,Large,Floor Worker,8.2,1,2.55,3.22,2.04,1.94,3.09,2.13,2.79,3.31,2.45,2.48,0
+Engineering Goods,Medium,Floor Worker,9.8,0,2.81,1.96,3.91,2.19,3.25,3.13,3.22,2.87,2.33,3.39,2
+Textiles,Medium,Manager,6.9,1,2.6,2.42,3.24,2.15,2.57,3.07,2.31,2.22,2.82,2.44,0
+Engineering Goods,Small,Floor Worker,11.3,0,2.47,2.6,1.36,2.43,3.71,2.74,3.55,3.62,2.61,3.58,2
+Textiles,Medium,Manager,11.0,0,3.01,2.02,2.13,3.6,3.47,3.12,2.32,2.4,2.21,2.16,0
+Engineering Goods,Medium,Supervisor,20.0,0,3.01,2.92,2.93,3.38,3.65,2.92,3.8,2.74,1.74,3.62,2
+Food Processing,Large,Manager,3.3,0,2.56,2.22,2.43,3.07,2.99,2.89,3.15,3.07,2.12,2.99,1
+Food Processing,Large,Manager,3.3,1,3.01,3.71,2.24,2.37,3.18,2.78,3.07,3.2,2.92,3.36,2
+Textiles,Large,Manager,6.6,1,3.08,3.22,4.19,2.75,4.09,4.04,3.51,1.44,2.47,3.48,2
+Engineering Goods,Large,Manager,16.9,1,3.73,4.4,3.67,3.64,4.01,2.62,3.18,3.05,2.62,3.08,1
+Textiles,Large,Floor Worker,11.9,0,4.15,3.23,4.05,3.36,4.41,3.1,4.35,3.47,3.0,4.39,2
+Textiles,Large,Manager,8.9,1,2.49,4.3,2.26,2.55,3.27,2.3,2.52,3.11,3.02,2.37,0
+Textiles,Small,Supervisor,12.4,0,2.23,1.87,2.91,2.82,3.78,4.13,3.79,2.33,3.22,3.96,2
+Food Processing,Small,Supervisor,7.2,1,2.82,2.88,2.66,2.7,3.52,3.43,4.48,2.91,2.68,4.29,2
+Textiles,Medium,Manager,4.0,1,2.59,2.61,2.56,2.91,3.24,2.19,3.97,3.32,3.85,3.42,2
+Engineering Goods,Medium,Manager,19.6,0,2.87,2.46,3.27,3.91,4.91,3.42,3.46,2.16,2.94,3.64,2
+Food Processing,Small,Supervisor,6.8,0,1.53,2.18,1.07,2.02,2.41,1.59,2.28,3.67,2.68,1.73,0
+Textiles,Large,Supervisor,10.8,0,2.6,2.58,3.66,3.49,3.36,3.42,3.46,3.44,2.74,3.83,2
+Textiles,Medium,Supervisor,1.0,0,1.91,1.96,2.37,2.69,2.91,3.88,2.87,1.93,1.74,3.21,1
+Textiles,Medium,Floor Worker,1.0,1,1.48,2.34,2.73,1.21,3.12,1.73,2.29,3.39,3.51,1.71,0
+Food Processing,Small,Floor Worker,5.7,1,2.02,1.39,1.72,1.76,3.2,1.68,3.33,2.78,3.09,2.64,0
+Engineering Goods,Medium,Floor Worker,2.3,1,2.51,2.56,2.13,2.22,3.22,2.05,3.12,4.07,3.7,2.46,0
+Textiles,Small,Floor Worker,6.1,0,2.66,2.74,2.1,2.3,3.23,2.63,4.2,3.14,2.24,4.11,2
+Engineering Goods,Large,Floor Worker,3.3,1,3.91,2.53,3.76,3.53,3.35,3.99,3.08,2.0,2.55,3.33,2
+Textiles,Medium,Manager,20.0,0,2.02,1.87,2.38,2.79,4.02,3.28,4.32,2.94,3.26,3.95,2
+Engineering Goods,Large,Supervisor,10.3,1,3.35,4.64,2.96,4.0,4.45,3.39,3.28,2.07,3.44,3.56,2
+Engineering Goods,Medium,Manager,13.2,0,1.98,2.32,1.73,2.59,3.2,1.54,2.55,3.07,3.14,1.82,0
+Food Processing,Medium,Supervisor,1.0,0,2.54,2.92,1.96,2.48,2.4,3.07,2.97,2.06,2.98,3.36,2
+Food Processing,Medium,Floor Worker,8.8,1,3.13,3.62,3.06,1.85,3.01,2.27,3.59,2.69,3.46,3.05,1
+Engineering Goods,Large,Floor Worker,4.3,0,4.05,3.44,3.44,3.72,3.44,3.66,2.75,3.55,3.76,3.35,2
+Textiles,Large,Floor Worker,13.4,1,2.47,2.58,2.24,2.72,3.48,1.96,3.32,3.05,2.45,2.9,1
+Textiles,Small,Manager,8.0,1,2.96,2.7,3.88,3.12,3.58,3.51,2.61,3.06,2.13,2.93,1
+Textiles,Large,Floor Worker,4.9,0,1.94,2.02,2.24,3.65,3.63,3.32,3.31,2.33,4.78,3.34,2
+Pharmaceuticals,Small,Supervisor,1.7,1,2.25,4.37,3.24,3.32,1.61,3.38,2.48,3.31,2.63,2.94,1
+Food Processing,Large,Manager,5.6,1,3.65,2.53,3.13,3.9,3.12,2.58,2.82,2.57,1.88,2.76,1
+Food Processing,Small,Manager,11.3,1,3.63,2.19,3.56,2.83,2.97,3.47,2.82,2.81,2.38,2.62,0
+Engineering Goods,Medium,Floor Worker,13.9,1,3.51,2.57,3.31,3.03,4.27,2.67,3.23,3.21,1.24,3.08,1
+Textiles,Large,Floor Worker,3.8,1,2.9,2.6,1.95,2.91,3.93,2.92,3.26,4.52,3.2,2.87,1
+Food Processing,Small,Floor Worker,20.0,1,1.11,3.69,2.57,1.4,3.37,2.51,4.2,3.65,3.78,3.99,2
+Textiles,Medium,Floor Worker,10.7,1,1.29,4.73,1.77,2.28,2.83,2.37,2.9,2.94,2.66,2.73,1
+Textiles,Medium,Floor Worker,2.3,1,2.69,2.92,3.23,3.05,3.3,2.83,2.63,3.53,2.75,2.49,0
+Food Processing,Small,Supervisor,1.8,0,2.31,1.52,2.1,1.94,2.0,3.29,2.11,4.23,3.5,2.05,0
+Engineering Goods,Large,Manager,4.6,0,2.8,1.64,2.77,3.63,3.18,4.31,2.22,1.35,1.18,2.88,1
+Food Processing,Large,Supervisor,3.7,1,3.23,3.38,2.65,3.23,2.9,1.85,2.35,3.04,2.62,1.88,0
+Textiles,Large,Supervisor,7.2,0,3.01,2.83,3.72,1.99,3.52,3.39,4.09,2.68,2.66,4.13,2
+Food Processing,Medium,Floor Worker,5.2,0,3.48,2.31,3.5,3.29,3.03,4.07,2.92,2.24,1.98,3.37,2
+Textiles,Medium,Manager,4.0,0,2.69,2.86,3.01,3.01,3.35,2.9,4.26,2.86,2.84,4.23,2
+Engineering Goods,Small,Supervisor,1.1,1,3.67,3.09,4.24,4.02,3.04,3.13,2.95,2.13,2.06,3.35,2
+Food Processing,Small,Manager,8.1,0,2.55,2.55,3.37,2.54,2.48,3.69,2.6,3.57,2.82,3.0,1
+Textiles,Small,Manager,1.0,1,2.2,2.65,2.91,3.04,3.54,2.4,3.7,2.4,3.17,3.41,2
+Textiles,Large,Floor Worker,10.7,1,3.62,2.84,2.59,3.52,5.0,2.92,3.21,2.93,3.41,3.08,1
+Textiles,Large,Floor Worker,1.0,1,2.29,3.94,2.12,1.8,2.06,1.89,2.45,4.21,3.65,2.07,0
+Engineering Goods,Large,Floor Worker,1.0,0,5.0,3.04,3.99,3.62,3.49,4.0,3.29,2.51,2.67,3.61,2
+Pharmaceuticals,Medium,Supervisor,2.3,1,3.63,3.77,3.85,4.09,2.07,3.08,3.16,2.36,1.96,3.06,1
+Food Processing,Medium,Manager,3.5,1,3.11,3.71,3.18,3.82,2.59,2.69,3.23,2.31,3.48,3.07,1
+Food Processing,Medium,Floor Worker,2.9,1,3.21,2.33,2.33,3.35,3.13,3.09,2.44,2.83,2.73,2.5,0
+Pharmaceuticals,Medium,Manager,3.5,1,4.61,2.32,3.97,4.92,3.52,4.8,4.02,1.67,2.05,4.63,2
+Textiles,Medium,Supervisor,6.2,0,3.12,2.25,2.21,3.74,3.58,4.42,3.23,2.46,3.06,4.18,2
+Engineering Goods,Small,Floor Worker,2.3,1,1.82,2.19,2.18,2.72,2.48,1.97,2.12,2.63,2.98,1.8,0
+Textiles,Small,Floor Worker,6.2,0,3.19,2.82,2.17,2.6,3.17,2.74,3.21,3.65,4.05,2.9,1
+Pharmaceuticals,Large,Supervisor,1.0,1,3.49,3.75,3.64,4.37,2.28,2.82,2.37,3.17,4.07,2.4,0
+Food Processing,Medium,Supervisor,2.3,1,2.94,3.9,3.18,3.31,2.46,3.43,3.45,2.93,3.32,3.44,2
+Food Processing,Large,Supervisor,1.0,0,2.36,3.28,3.68,2.4,1.23,2.47,1.95,4.18,2.56,2.09,0
+Engineering Goods,Small,Floor Worker,10.6,1,3.21,2.97,3.63,2.75,2.91,2.81,3.03,2.83,1.57,3.0,1
+Textiles,Medium,Supervisor,2.6,0,2.18,3.47,2.21,2.68,2.14,2.05,2.89,3.01,4.18,2.57,0
+Pharmaceuticals,Small,Floor Worker,7.8,1,3.13,3.14,3.56,2.1,3.02,2.86,3.6,2.74,3.14,3.3,1
+Pharmaceuticals,Medium,Manager,1.0,1,3.2,3.26,2.32,3.57,2.37,2.96,2.98,2.91,2.5,3.19,1
+Pharmaceuticals,Small,Floor Worker,13.7,0,4.32,3.27,3.32,3.26,3.99,3.39,4.45,2.77,3.62,4.43,2
+Textiles,Small,Floor Worker,5.4,0,3.57,2.42,3.58,3.6,2.74,3.62,3.13,2.19,2.11,3.2,1
+Textiles,Large,Supervisor,4.9,1,2.96,3.34,1.72,2.69,2.55,1.47,2.76,2.48,3.41,2.44,0
+Textiles,Medium,Supervisor,1.1,0,2.65,2.2,2.74,2.65,3.25,3.45,3.84,2.44,3.15,4.2,2
+Textiles,Medium,Supervisor,2.0,1,2.36,3.65,1.98,2.18,1.34,2.04,1.78,3.71,2.67,1.66,0
+Pharmaceuticals,Medium,Supervisor,4.1,1,4.11,3.99,3.8,3.61,3.6,3.85,3.41,2.69,2.53,3.79,2
+Food Processing,Medium,Manager,2.1,1,2.65,3.19,2.14,3.95,1.34,2.45,2.79,4.04,4.0,2.55,0
+Food Processing,Medium,Supervisor,9.9,0,2.59,3.53,2.97,3.61,3.19,2.08,4.0,4.69,3.57,3.74,2
+Pharmaceuticals,Small,Supervisor,5.3,1,3.7,1.62,3.48,3.67,2.33,3.85,2.51,3.08,3.46,3.07,1
+Pharmaceuticals,Large,Supervisor,2.1,1,3.36,3.49,4.06,3.23,2.95,4.08,2.69,3.37,3.28,2.94,1
+Textiles,Large,Floor Worker,8.9,0,2.91,3.0,2.94,3.48,5.0,3.2,5.0,3.4,2.91,5.0,2
+Pharmaceuticals,Large,Supervisor,3.7,0,2.68,2.58,2.34,3.51,1.0,2.89,1.99,4.15,1.43,2.12,0
+Textiles,Medium,Floor Worker,8.6,0,3.06,4.2,2.9,2.57,3.97,1.91,3.82,4.71,2.74,3.34,2
+Textiles,Small,Supervisor,3.2,0,3.54,2.3,2.58,3.31,2.6,4.13,2.53,3.07,3.0,2.92,1
+Pharmaceuticals,Large,Floor Worker,7.4,1,4.18,3.27,4.03,2.65,3.43,2.65,3.46,3.63,2.09,3.35,2
+Pharmaceuticals,Medium,Manager,3.6,1,4.34,3.23,4.24,4.53,2.95,3.51,2.93,2.64,2.53,3.07,1
+Textiles,Small,Supervisor,9.9,1,1.73,1.6,3.59,3.49,2.99,4.19,2.6,2.41,2.68,3.03,1
+Pharmaceuticals,Medium,Manager,1.0,0,3.54,2.25,3.0,3.41,1.96,2.32,2.33,3.13,4.32,2.27,0
+Pharmaceuticals,Large,Supervisor,1.5,0,3.1,3.64,2.91,1.8,2.63,3.08,2.87,3.37,2.56,2.88,1
+Food Processing,Medium,Floor Worker,4.4,0,2.72,2.33,2.48,3.22,1.72,3.41,1.89,2.36,2.36,2.16,0
+Food Processing,Large,Manager,2.7,1,3.69,3.01,3.59,2.91,3.59,3.72,3.88,2.55,2.63,4.06,2
+Food Processing,Large,Supervisor,3.5,1,3.26,4.34,3.4,2.79,2.51,2.95,3.36,1.55,3.26,2.94,1
+Textiles,Small,Manager,8.0,0,1.36,3.18,1.87,2.4,1.86,2.16,2.73,4.51,3.28,2.27,0
+Food Processing,Large,Supervisor,3.4,1,2.33,3.85,3.19,2.77,3.03,2.11,2.85,3.31,4.13,2.53,0
+Pharmaceuticals,Medium,Supervisor,6.4,0,2.49,2.44,2.3,2.42,2.13,2.61,2.8,3.49,2.62,2.51,0
+Pharmaceuticals,Medium,Manager,2.2,0,3.71,2.57,4.05,3.07,3.61,3.06,3.44,3.91,3.05,3.67,2
+Food Processing,Small,Supervisor,1.0,0,3.88,1.84,3.91,3.65,3.58,4.25,2.69,2.6,2.72,3.25,1
+Pharmaceuticals,Large,Floor Worker,8.6,1,4.6,2.91,4.07,3.76,3.1,4.17,3.42,3.36,2.18,3.69,2
+Pharmaceuticals,Medium,Supervisor,15.9,1,2.15,2.57,2.25,1.84,2.52,3.28,2.73,2.1,3.45,2.78,1
